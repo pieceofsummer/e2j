@@ -17,7 +17,13 @@
 
 Jar2Exe extraction tool [WIP]
 
-# Supported protection modes
+## Supported operating systems
+
+Jar2Exe can produce binaries for Windows, Linux and MacOS.
+
+e2j supports them all too!
+
+## Supported protection modes
 
  - None
  - Hide class files
